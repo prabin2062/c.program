@@ -2,6 +2,7 @@
 int main()
 {
     int a;
-    printf("Hello World");
-    scanf("%d",&a);
-}
+    printf("Hlo,Prabin Bhatt");
+    scanf("%d",a);
+    return 0;
+}s
