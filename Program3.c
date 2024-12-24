@@ -9,7 +9,7 @@ int main() {
     while (num != 0) {
         remainder = num % 10;
         reversed = reversed * 10 + remainder;
-        num /= 10;
+        num /= 10;  
     }
 
     printf("Reversed number: %d\n", reversed);
